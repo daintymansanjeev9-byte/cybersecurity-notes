@@ -1,0 +1,3 @@
+- phishing = fake login attempt
+- brute force = password guessing
+- malware = malicious software
