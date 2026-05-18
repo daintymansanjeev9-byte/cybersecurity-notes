@@ -1,0 +1,4 @@
+- phishing = fake login attempt
+- brute force = password guessing
+- malware = harmful software
+- botnet = infected devices controlled remotely
