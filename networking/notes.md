@@ -1,0 +1,4 @@
+- IP address identifies device
+- DNS converts domain to IP
+- Ports control communication
+- HTTP/HTTPS web traffic
