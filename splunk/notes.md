@@ -1,0 +1,3 @@
+- index = data storage
+- sourcetype = data type
+- _time = timestamp
