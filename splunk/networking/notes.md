@@ -1,0 +1,3 @@
+- IP identifies devices
+- DNS converts domain to IP
+- Ports control communication
